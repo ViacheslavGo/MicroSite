@@ -1,0 +1,24 @@
+body {
+    background-color: #faebd7;
+}
+a {
+    text-decoration: none;
+    font-family: Sans-serif;
+    font-size: x-large;
+}
+.sidebar {
+    width: 15%;
+    height: 10%;
+    background-color: #cabba7;
+    margin-top: 1%;
+   }
+
+.sidebar a {
+    display: block;
+    text-align: center; /* Выравнивание по центру */
+    height: 100%; /* Высота на весь слой */
+    color: #4e4e4e;
+}
+.logo {
+    border-radius: 40%;
+}
