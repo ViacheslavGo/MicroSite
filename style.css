@@ -1,16 +1,18 @@
 body {
     background-color: #faebd7;
+    font-size: 125%;
+    font-family:cursive;
 }
 a {
     text-decoration: none;
     font-family: Sans-serif;
     font-size: x-large;
 }
+
 .sidebar {
     width: 15%;
     height: 10%;
     background-color: #cabba7;
-    margin-top: 1%;
    }
 
 .sidebar a {
@@ -19,6 +21,7 @@ a {
     height: 100%; /* Высота на весь слой */
     color: #4e4e4e;
 }
-.logo {
-    border-radius: 40%;
+
+.sidebar:hover {
+    background-color: #b6aa99;
 }
